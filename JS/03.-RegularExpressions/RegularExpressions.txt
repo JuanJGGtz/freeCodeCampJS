@@ -1,0 +1,2 @@
+Las expresiones regulares se utilizan en lenguajes de programación para coincidir con partes de cadenas. 
+Creas patrones para ayudarte a hacer esa coincidencia
