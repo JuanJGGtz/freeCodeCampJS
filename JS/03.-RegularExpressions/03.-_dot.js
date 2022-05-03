@@ -24,3 +24,6 @@ let hugStr = "Bear hug";
 let huRegex = /hu./;
 console.log('humStr :>> ', huRegex.test(humStr));
 console.log('hugStr :>> ', huRegex.test(hugStr));
+
+console.log('object :>> ', hugStr.match(huRegex));
+console.log('object :>> ', humStr.match(huRegex));
